@@ -14,3 +14,5 @@ You can take a look at my profile [here](https://leetcode.com/pzzzl/).
 - [1523. Count Odd Numbers in an Interval Range](submissions/easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range)
 
 ### Medium
+
+- [7. Reverse Integer](submissions/medium/7.%20Reverse%20Integer)
