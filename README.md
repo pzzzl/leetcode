@@ -1,8 +1,12 @@
-# LeetCode
+<h1 align="center">LeetCode</h1>
 
-This repository is a personal progress tracker to my LeetCode submissions.
+<p align="center">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white">
+</p>
 
-You can take a look at my profile [here](https://leetcode.com/pzzzl/).
+<p align="center">This repository is a personal progress tracker to my LeetCode submissions.</p>
+
+<p align="center">You can take a look at my profile <a href="https://leetcode.com/pzzzl/">here</a>.</p>
 
 ## Summary
 
