@@ -1,5 +1,8 @@
 # 171. Excel Sheet Column Number
 
+[PROBLEM](https://leetcode.com/problems/excel-sheet-column-number/)
+[SUBMISSION 1](https://leetcode.com/submissions/detail/340020486/)
+
 Given a string `columnTitle` that represents the column title as appear in an Excel sheet, return *its corresponding column number*.
 
 For example:
