@@ -1,7 +1,7 @@
 # 1295. Find Numbers with Even Number of Digits
 
-[PROBLEM](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
-[SUBMISSION 1](https://leetcode.com/submissions/detail/339003754/)
+[PROBLEM](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) <br>
+[SUBMISSION 1](https://leetcode.com/submissions/detail/339003754/) <br>
 [SUBMISSION 2](https://leetcode.com/submissions/detail/447326712/)
 
 Given an array `nums` of integers, return how many of them contain an **even number** of digits.

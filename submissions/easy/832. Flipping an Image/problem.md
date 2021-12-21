@@ -1,6 +1,6 @@
 # 832. Flipping an Image
 
-[PROBLEM](https://leetcode.com/problems/flipping-an-image/)
+[PROBLEM](https://leetcode.com/problems/flipping-an-image/)  <br>
 [SUBMISSION 1](https://leetcode.com/submissions/detail/339454819/)
 
 Given an `n x n` binary matrix `image`, flip the image **horizontally**, then invert it, and return the *resulting image*.
