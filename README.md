@@ -12,6 +12,7 @@
 
 ### Easy
 
+- [20. Valid Parentheses](submissions/easy/20.%20Valid%20Parentheses/problem.md)
 - [171. Excel Sheet Column Number](submissions/easy/171.%20Excel%20Sheet%20Column%20Number/problem.md)
 - [709. To Lower Case](submissions/easy/709.%20To%20Lower%20Case/problem.md)
 - [832. Flipping an Image](submissions/easy/832.%20Flipping%20an%20Image/problem.md)
