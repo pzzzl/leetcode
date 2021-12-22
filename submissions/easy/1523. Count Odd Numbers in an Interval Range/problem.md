@@ -1,7 +1,7 @@
 # 1523. Count Odd Numbers in an Interval Range
 
 [PROBLEM](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) <br>
-[SUBMISSION 1](https://leetcode.com/submissions/detail/404850784/)
+[SUBMISSION 1](https://github.com/pzzzl/leetcode/blob/main/submissions/easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/submission%201.js)
 
 Given two non-negative integers `low` and `high`. Return the *count of odd numbers between* `low` and `high` *(inclusive)*.
 

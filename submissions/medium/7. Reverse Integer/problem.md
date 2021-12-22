@@ -1,7 +1,7 @@
 # 7. Reverse Integer
 
 [PROBLEM](https://leetcode.com/problems/reverse-integer/) <br>
-[SUBMISSION 1](https://leetcode.com/submissions/detail/491644239/)
+[SUBMISSION 1](https://github.com/pzzzl/leetcode/blob/main/submissions/medium/7.%20Reverse%20Integer/submission%201.js)
 
 Given a signed 32-bit integer `x`, return `x` *with its digits reversed*. If reversing `x` causes the value to go outside the signed 32-bit integer range `[-231, 231 - 1]`, then return `0`.
 
