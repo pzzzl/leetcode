@@ -15,6 +15,7 @@
 - [171. Excel Sheet Column Number](submissions/easy/171.%20Excel%20Sheet%20Column%20Number/problem.md)
 - [832. Flipping an Image](submissions/easy/832.%20Flipping%20an%20Image/problem.md)
 - [1295. Find Numbers with Even Number of Digits](submissions/easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/problem.md)
+- [1480. Running Sum of 1d Array](submissions/easy/1480.%20Running%20Sum%20of%201d%20Array/problem.md)
 - [1523. Count Odd Numbers in an Interval Range](submissions/easy/1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range/problem.md)
 
 ### Medium
