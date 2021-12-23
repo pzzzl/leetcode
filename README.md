@@ -12,6 +12,7 @@
 
 ### Easy
 
+- [9. Palindrome Number](submissions/easy/9.%20Palindrome%20Number/problem.md)
 - [20. Valid Parentheses](submissions/easy/20.%20Valid%20Parentheses/problem.md)
 - [171. Excel Sheet Column Number](submissions/easy/171.%20Excel%20Sheet%20Column%20Number/problem.md)
 - [709. To Lower Case](submissions/easy/709.%20To%20Lower%20Case/problem.md)
