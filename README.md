@@ -26,3 +26,4 @@
 
 - [7. Reverse Integer](submissions/medium/7.%20Reverse%20Integer/problem.md)
 - [50. Pow(x, n)](submissions/medium/50.%20Pow(x,%20n)/problem.md)
+  
